@@ -1,0 +1,36 @@
+leftnav:
+- identifier: abfc2dee-8b74-cb03-6b24-e7388a9b824a
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: cb497584-6877-8e21-77fb-38d11d372b42
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 20
+- identifier: 4b7da0e2-e235-4de3-a048-31aedb5b5a52
+  name: 'Creating a Collaborative Learning Environment '
+  pageRef: /pages/instructor-insights/creating-a-collaborative-learning-environment
+  parent: cb497584-6877-8e21-77fb-38d11d372b42
+  weight: 30
+- identifier: 16a32061-5b70-bc3a-0083-259d9e5cff3a
+  name: Unique Learning Environment, Unique Discussions
+  pageRef: /pages/instructor-insights/unique-learning-environment-unique-discussions
+  parent: cb497584-6877-8e21-77fb-38d11d372b42
+  weight: 40
+- identifier: e9f5dfe5-353a-5ec1-46b5-af117a98f305
+  name: Teaching without Information Communication Technologies
+  pageRef: /pages/instructor-insights/teaching-without-information-communication-technologies
+  parent: cb497584-6877-8e21-77fb-38d11d372b42
+  weight: 50
+- identifier: 4b7a310b-6a82-9ff2-bae1-1aeb94c35aba
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 60
+- identifier: f1ecff91-2762-bca1-9a5b-93e7bec27c68
+  name: Readings
+  pageRef: /pages/readings
+  weight: 70
+- identifier: b921fe32-9313-6014-d62e-73dc1627ef0c
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 80
