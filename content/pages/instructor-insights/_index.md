@@ -10,7 +10,7 @@ uid: cb497584-6877-8e21-77fb-38d11d372b42
 
 This page focuses on the course *11.469 Urban Sociology in Theory and Practice* as it was taught by Assistant Professor Justin Steil and Teaching Assistant Aditi Mehta in Spring 2016.
 
-This course introduces students to core writings in the field of urban sociology, and explores the nature and changing character of the city and the urban experience in the U.S. and abroad. Topics include the changing conceptions of “community,” the effects of neighborhood characteristics on individual outcomes, the significance of social capital and networks, the drivers of categorical inequality, and the interaction of social structure and political power. This class is comprised of students from MIT and from the [Boston University Metropolitan College Prison Education Program](http://sites.bu.edu/pep/), and took place at the [Massachusetts Correctional Institution in Norfolk](https://www.mass.gov/locations/mci-norfolk).
+This course introduces students to core writings in the field of urban sociology, and explores the nature and changing character of the city and the urban experience in the U.S. and abroad. Topics include the changing conceptions of “community,” the effects of neighborhood characteristics on individual outcomes, the significance of social capital and networks, the drivers of categorical inequality, and the interaction of social structure and political power. This class is comprised of students from MIT and from the {{% resource_link "7ba7cfb5-87c0-4584-ae53-3cf0e8c43e72" "Boston University Metropolitan College Prison Education Program" %}}, and took place at the {{% resource_link "1187ba51-e2e8-408a-bf5d-bfc358151dc7" "Massachusetts Correctional Institution in Norfolk" %}}.
 
 ## Course Outcomes
 
@@ -73,7 +73,7 @@ Undergraduate and graduate students
 
 ### Breakdown by Major
 
-MIT students were pursuing graduate degrees in [city planning](https://dusp.mit.edu/masters) and [urban studies and planning](https://dusp.mit.edu/doctoral).
+MIT students were pursuing graduate degrees in {{% resource_link "d3a6138d-e0ae-4ecd-800b-eadbd8def354" "city planning" %}} and {{% resource_link "9f19cc58-aec7-4c77-89d4-6f071e44c052" "urban studies and planning" %}}.
 
 Boston University Metropolitan College students had received or were pursuing bachelor’s degrees in urban studies and sociology.
 

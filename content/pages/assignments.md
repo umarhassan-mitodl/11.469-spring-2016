@@ -93,4 +93,4 @@ Final Paper
 
 We would like this final assignment to be useful to you in your academic or professional careers. You can choose a topic of your choice relevant to your future goals and endeavors to address in a research paper of 3,500 words or fewer. The main requirement is that you draw from the class readings. Everyone is required to submit a two-page proposal explaining their project.
 
-Students need to submit this proposal by Week 8, and the final paper is due Week 13. Please use [APA style citations](https://owl.english.purdue.edu/owl/resource/560/01/) in this paper.
+Students need to submit this proposal by Week 8, and the final paper is due Week 13. Please use {{% resource_link "6a86e9e7-dda1-4168-b0b4-ff16f9a1e929" "APA style citations" %}} in this paper.
