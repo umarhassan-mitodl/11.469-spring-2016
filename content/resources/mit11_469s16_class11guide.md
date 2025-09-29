@@ -4,6 +4,8 @@ description: This resource contains the information regarding class 11 guide.
 file: /courses/11-469-urban-sociology-in-theory-and-practice-spring-2016/ce0f82e7d89ef0c8c793a0b472ec9636_MIT11_469S16_Class11Guide.pdf
 file_size: 584031
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

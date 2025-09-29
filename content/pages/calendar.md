@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides the schedule of course topics and assignment due
   dates, and information on weekly response paper assignments.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
